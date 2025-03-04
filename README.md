@@ -19,7 +19,7 @@ A detailed technical report outlining the methodologies and findings is availabl
 
 ## 🚀 Streamlit App Concept
 
-### 🎬 Full App Demo
+### 🎬 App Demo GIF
 
 ![Example GIF](assets/malariagithubgif%20(1).gif)
 
