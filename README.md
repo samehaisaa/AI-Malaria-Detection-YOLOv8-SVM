@@ -1,5 +1,11 @@
-[![Charles Nicole Hospital](https://img.shields.io/badge/Charles_Nicole_Hospital-Parasitology_&_Mycology_Lab_Center-red)](http://www.chucharlesnicolle.tn/laboratoire-de-parasitologie-mycologie/)  
-[![CRISTAL Lab](https://img.shields.io/badge/CRISTAL_Lab-Research_Group-green)](https://ensi.rnu.tn/fra/pages/398/Laboratoire-CRISTAL)  
+<p align="center">
+  <a href="http://www.chucharlesnicolle.tn/laboratoire-de-parasitologie-mycologie/">
+    <img src="https://img.shields.io/badge/Charles_Nicole_Hospital-Parasitology_&_Mycology_Lab_Center-red" alt="Charles Nicole Hospital">
+  </a>
+  <a href="https://ensi.rnu.tn/fra/pages/398/Laboratoire-CRISTAL">
+    <img src="https://img.shields.io/badge/CRISTAL_Lab-Research_Group-green" alt="CRISTAL Lab">
+  </a>
+</p>
 
 # Malaria Detection Project
 
@@ -64,7 +70,7 @@ The dataset was gathered at the **Parasitology & Mycology Lab Center** of Charle
       </td>
       <td align="center" style="padding-left: 40px;">
         <img src="assets/image-8.png" alt="Activation Heatmap" width="100"/><br>
-        <em>Respective Activation Heatmap</em>
+        <em> Activation Heatmap</em>
       </td>
     </tr>
   </table>
