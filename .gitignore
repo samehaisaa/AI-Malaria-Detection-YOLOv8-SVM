@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.ipynb_checkpoints
+
+.spyderproject
+.spyderworkspace
+
+tmp/
+temp/
+*.tmp
+*.temp
+
+/home/sameh/miniconda3/
+
+/home/sameh/miniconda3/envs/tf-wsl/lib/python3.9/site-packages/
