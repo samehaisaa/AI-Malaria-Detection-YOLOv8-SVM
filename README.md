@@ -9,7 +9,7 @@
 
 # TunisiaAI Malaria Detection
 
-**This repository the work I developed during my summer internship at the CRISTAL Lab**  
+**This repository contains the work I developed during my summer internship at the CRISTAL Lab**  
 *(Research Center in Networks, Image, Systems, Architecture, and Multimedia - LR99ES25)*.  
 **The project was a collaborative effort between CRISTAL Lab and the Parasitology & Mycology Lab Center at Charles Nicole Hospital, Tunisia.**
 
