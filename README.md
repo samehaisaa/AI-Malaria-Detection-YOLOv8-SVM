@@ -21,7 +21,7 @@ A detailed technical report outlining the methodologies and findings is availabl
 
 ### 🎬 Full App Demo
 
-![Example GIF](assets/malariagithubgif.gif)
+![Example GIF](assets/malariagithubgif%20(1).gif)
 
 ### 🔬 Bringing AI to Malaria Diagnosis
 
@@ -65,11 +65,11 @@ The dataset was gathered at the **Parasitology & Mycology Lab Center** of Charle
   <table>
     <tr>
       <td align="center" style="padding-right: 40px;">
-        <img src="assets/image-9.png" alt="Cell with Parasite" width="150"/><br>
+        <img src="assets/image-9.png" alt="Cell with Parasite" width="170"/><br>
         <em>Cell & Parasite</em>
       </td>
       <td align="center" style="padding-left: 4 0px;">
-        <img src="assets/image-8.png" alt="Activation Heatmap" width="150"/><br>
+        <img src="assets/image-8.png" alt="Activation Heatmap" width="170"/><br>
         <em> Activation Heatmap</em>
       </td>
     </tr>
